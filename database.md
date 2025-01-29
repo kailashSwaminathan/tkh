@@ -1,3 +1,3 @@
 # databases
 
-## [postgresql](./postgresql.md)
+## [postgresql](./db/postgresql.md)
